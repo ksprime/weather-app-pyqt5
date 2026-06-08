@@ -42,7 +42,7 @@ A desktop weather application built with Python and PyQt5 that retrieves real-ti
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/weather-app-pyqt5.git
+git clone https://github.com/ksprime/weather-app-pyqt5.git
 ```
 
 Navigate into the project directory:
